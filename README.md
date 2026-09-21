@@ -30,3 +30,5 @@ To visualise the scikit-learn generated confusion matrix better.
 link: https://matplotlib.org/
 link: https://seaborn.pydata.org/
 
+## Code Snippets
+Reference links to code snippets adapted to this can be found within the part where they are used.
